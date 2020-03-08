@@ -2,7 +2,7 @@
 # CSC 11300, Morning section
 # Professor Yuksel
 # 2/11/2020
-
+# First in class assignment
 import math
 from scipy.integrate import quad as quad
 
